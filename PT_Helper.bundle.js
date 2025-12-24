@@ -109,6 +109,7 @@
 // @grant        GM.xmlHttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
+// @grant        GM_addStyle
 // @grant        GM_openInTab
 // @grant        GM_download
 // @grant        GM_xmlhttpRequest
