@@ -4,6 +4,7 @@
 // @version      2025-12-24
 // @description  感谢 小野马大佬 的邀请和帮助，感谢 gringoire大佬 一直帮助调试
 // @author       CHUAN
+// @match        https://hdsky.me/*
 // @match        https://qingwapt.com/*
 // @match        https://iptorrents.com/*
 // @match        https://www.agsvpt.com/*
