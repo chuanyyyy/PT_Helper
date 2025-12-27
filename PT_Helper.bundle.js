@@ -117,6 +117,8 @@
 // @match        http*://*redacted.sh/requests.php*
 // @match        http*://*redacted.sh/torrents.php*
 // @match        https://c.pc.qq.com/middlem.html?pfurl=*
+// @updateURL    https://openuserjs.org/meta/chuan/PT_Helper.meta.js
+// @license      MIT
 // @grant        GM.xmlHttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
