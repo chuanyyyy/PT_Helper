@@ -2,7 +2,7 @@
 // @name         PT_Helper
 // @namespace    http://tampermonkey.net/
 // @version      2025-12-24
-// @description   感谢 小野马大佬 的邀请和帮助，感谢 gringoire大佬 一直帮助调试
+// @description   感谢 匿名大佬 的邀请和帮助，感谢 gringoire大佬 一直帮助调试
 // @author       CHUAN
 // @updateURL    https://openuserjs.org/meta/chuan/PT_Helper.meta.js
 // @license      MIT
